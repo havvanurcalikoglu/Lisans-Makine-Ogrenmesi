@@ -1,0 +1,1 @@
+# Lisans-Makine-renmesi
