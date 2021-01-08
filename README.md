@@ -1,1 +1,2 @@
-# Lisans-Makine-renmesi
+# Lisans-Makine-Ogrenmesi
+
